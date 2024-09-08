@@ -60,5 +60,5 @@ This model is for educational purposes only and should not be used for actual me
 Please view the LICENSE file.
 
 ## Contact
-Arhaan Keshwani
-akeshwanibusiness@gmail.com
+- Arhaan Keshwani
+- akeshwanibusiness@gmail.com

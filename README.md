@@ -35,10 +35,6 @@ The main script (`index.ipynb`) performs the following steps:
 4. Prediction and evaluation
 5. Visualization of results
 
-## Usage
-1. Ensure the dataset (`breast_cancer_data.csv`) is in the correct path.
-2. Run the Jupyter notebook `index.ipynb`.
-
 ## Model Performance
 The model's performance is evaluated using:
 - Accuracy score

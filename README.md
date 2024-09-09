@@ -53,7 +53,7 @@ A confusion matrix heatmap is generated for visual interpretation of the results
 This model is for educational purposes only and should not be used for actual medical diagnosis. Always consult with healthcare professionals for medical advice and diagnosis.
 
 ## License
-Please view the LICENSE file.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 - Arhaan Keshwani
